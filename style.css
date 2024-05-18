@@ -1,0 +1,77 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #E1EDE6;
+}
+.textMenu{
+    margin: 10px;
+}
+.w{
+    display: flex;
+    position: relative;
+    left: 165px;
+}
+.block1{
+    flex: 1;
+    position: absolute;
+    top: 145px;
+    left: 735px;
+    
+}
+.zxcv{
+    color: green;
+}
+.asdf{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+}
+.qw{
+    font-family: Raleway;
+font-size: 60px;
+font-weight: 500;
+line-height: 66px;
+text-align: left;
+
+
+}
+.qwe{
+    border: 1px solid #598D66;
+    top: 411px;
+    left: 735px;
+    font-family: Raleway;
+font-size: 20px;
+font-weight: 500;
+line-height: 23.48px;
+text-align: left;
+padding: 10px;
+}
+
+.qwer{
+    display: flex;
+    position: relative;
+    left: 165px;
+}
+.qwert{
+    font-family: Raleway;
+font-size: 40px;
+font-weight: 500;
+line-height: 44px;
+text-align: left;
+}
+.nb{
+    
+
+    position: relative;
+    left: 275px;
+}
+.qwerty{
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+
+}
